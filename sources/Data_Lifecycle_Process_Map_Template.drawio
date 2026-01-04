@@ -61,11 +61,14 @@
         <mxCell id="QyfHaMKDJfwrlfqyTy3i-17" connectable="0" parent="QyfHaMKDJfwrlfqyTy3i-16" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;" value="Relation" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="u9RqqLnZJyxzTTIWWQVx-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="For training purposes only&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;-&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(c) 2026, Michael Gries (griemide)" vertex="1">
+          <mxGeometry height="40" width="480" x="600" y="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Data_System" id="aJd1sG07kKjelIkv-elm">
-    <mxGraphModel dx="928" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1326" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="BnV7p59vuxxBCpBbYNzp-0" />
         <mxCell id="BnV7p59vuxxBCpBbYNzp-1" parent="BnV7p59vuxxBCpBbYNzp-0" />
@@ -206,6 +209,9 @@
         </mxCell>
         <mxCell id="8leq96XrhBVsInxq0wDs-0" parent="BnV7p59vuxxBCpBbYNzp-1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=center;align=center;" value="Use case&lt;br&gt;UC_0815" vertex="1">
           <mxGeometry height="40" width="160" x="120" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="JWAFScmb30AKqXTQPIMU-4" parent="BnV7p59vuxxBCpBbYNzp-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="For training purposes only&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;-&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(c) 2026, Michael Gries (griemide)" vertex="1">
+          <mxGeometry height="30" width="480" x="640" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

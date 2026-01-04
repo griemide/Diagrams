@@ -4,7 +4,7 @@ Data Flow Maps / UML / draw.io / mermaid
 
 Link: https://app.diagrams.net/
 
-Refereence: https://www.drawio.com/
+References: https://www.drawio.com/ and https://github.com/jgraph/drawio
 
 Wiki: https://en.wikipedia.org/wiki/Diagrams.net
 

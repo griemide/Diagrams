@@ -10,6 +10,10 @@ Data Flow Maps / UML / draw.io / mermaid
 ### Libraries
 [list of own libraries for training purposes only](libraries/readme.md)
 
+### References
+[Details about online application app.diagrams.net (formerly draw.io)](references/readme.md)
+
+
 ## BPMN Repository (public)
 see also [public BPMN examples](https://github.com/griemide/BPMN)
 <details><summary>Example (from draw.io blog)</summary>

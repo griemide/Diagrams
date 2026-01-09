@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Data Lifecycle Process Map DHIP">
-    <mxGraphModel dx="2730" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1560" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -106,8 +106,8 @@
         <mxCell id="dFrk_E7KXqp5XphclLLv-22" parent="WIyWlLk6GJQsqaUBKTNV-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;" value="Start of&lt;br&gt;Process" vertex="1">
           <mxGeometry height="40" width="80" x="170" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="dFrk_E7KXqp5XphclLLv-23" parent="WIyWlLk6GJQsqaUBKTNV-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" value="VMP-156" vertex="1">
-          <mxGeometry height="40" width="100" x="1190" y="160" as="geometry" />
+        <mxCell id="dFrk_E7KXqp5XphclLLv-23" parent="WIyWlLk6GJQsqaUBKTNV-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" value="gVMP-XXX" vertex="1">
+          <mxGeometry height="40" width="320" x="970" y="160" as="geometry" />
         </mxCell>
         <mxCell id="dFrk_E7KXqp5XphclLLv-24" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dFrk_E7KXqp5XphclLLv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" target="dFrk_E7KXqp5XphclLLv-29" value="">
           <mxGeometry relative="1" as="geometry">

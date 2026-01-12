@@ -66,5 +66,15 @@
     "h": 160,
     "aspect": "fixed",
     "title": "Note with Links"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" style=\"endArrow=diamond;html=1;rounded=0;strokeWidth=5;strokeColor=#FF3333;startArrow=diamond;startFill=1;endFill=1;edgeStyle=orthogonalEdgeStyle;curved=1;\" value=\"\"&gt;&lt;mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"&gt;&lt;Array as=\"points\"&gt;&lt;mxPoint x=\"260\" y=\"230\"/&gt;&lt;mxPoint x=\"260\"/&gt;&lt;/Array&gt;&lt;mxPoint y=\"230\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"630\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 630,
+    "h": 230.0666666666666
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" style=\"endArrow=diamond;html=1;rounded=0;strokeWidth=5;strokeColor=#FF3333;startArrow=diamond;startFill=1;endFill=1;edgeStyle=entityRelationEdgeStyle;\" value=\"\"&gt;&lt;mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"&gt;&lt;mxPoint y=\"110\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"260\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 260,
+    "h": 110
   }
 ]</mxlibrary>

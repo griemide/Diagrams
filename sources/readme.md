@@ -1,6 +1,6 @@
 # Sources
 
-(click on dedicated link to open directly in online editor)
+Hint: click on a dedicated link below to open a diagram directly in the **app.diagrams.net** online editor.
 
 ## Templates
 - [Data Lifecycle Process Map Template.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FData_Lifecycle_Process_Map_Template.drawio#%7B%22pageId%22%3A%22YfPhewbXs6lOoYcUwz4W%22%7D)

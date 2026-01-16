@@ -16,5 +16,6 @@ Hint: click on a dedicated link below to open a diagram directly in the **app.di
 - [Training_Expand-Collapse_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Expand-Collapse_Examples.drawio#%7B%22pageId%22%3A%22YbA9QDg3WB576rQ0Z9me%22%7D)
 - [Training_Plugin-Animation_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Plugin-Animation_Examples.drawio#%7B%22pageId%22%3A%22jOom1orup965f_IblSqe%22%7D)
 - [Training_Venn_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Venn_Examples.drawio)
+- [Training_Quadrant_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Quadrant_Examples.drawio#%7B%22pageId%22%3A%22quadrant-diagram%22%7D)
 - [Training_Presentation_2026.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Presentation_2026.drawio#%7B%22pageId%22%3A%22izTNuDzV_WpvGpYoINfG%22%7D)
 

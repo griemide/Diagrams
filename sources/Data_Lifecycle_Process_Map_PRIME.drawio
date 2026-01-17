@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.2">
-  <diagram name="Seite-1" id="ohRNJvKkvUwct1vVd4wq">
-    <mxGraphModel>
+  <diagram name="Validation_Strategy" id="ohRNJvKkvUwct1vVd4wq">
+    <mxGraphModel dx="764" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;" value="ISA 85 Level" vertex="1">
+          <mxGeometry height="300" width="420" x="150" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-2" parent="iUB_A27WzyDPVHcbbNS5-1" style="swimlane;html=1;startSize=20;horizontal=0;" value="IT-Systems" vertex="1">
+          <mxGeometry height="120" width="400" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-12" parent="iUB_A27WzyDPVHcbbNS5-2" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" value="Lane" vertex="1">
+          <mxGeometry height="60" width="380" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-13" parent="iUB_A27WzyDPVHcbbNS5-2" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" value="Lane" vertex="1">
+          <mxGeometry height="60" width="380" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-3" parent="iUB_A27WzyDPVHcbbNS5-1" style="swimlane;html=1;startSize=20;horizontal=0;" value="OT-Systems" vertex="1">
+          <mxGeometry height="180" width="400" x="20" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-10" parent="iUB_A27WzyDPVHcbbNS5-3" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" value="Lane" vertex="1">
+          <mxGeometry height="60" width="380" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-11" parent="iUB_A27WzyDPVHcbbNS5-3" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" value="Lane" vertex="1">
+          <mxGeometry height="60" width="380" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-5" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Responibility" vertex="1">
+          <mxGeometry height="340" width="360" x="210" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-6" parent="iUB_A27WzyDPVHcbbNS5-5" style="swimlane;html=1;startSize=20;" value="Q&amp;amp;V" vertex="1">
+          <mxGeometry height="320" width="120" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-7" parent="iUB_A27WzyDPVHcbbNS5-5" style="swimlane;html=1;startSize=20;" value="CSV" vertex="1">
+          <mxGeometry height="320" width="240" x="120" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-14" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" value="Lane" vertex="1">
+          <mxGeometry height="60" width="380" x="190" y="600" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

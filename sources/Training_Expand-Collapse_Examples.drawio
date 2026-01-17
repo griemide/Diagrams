@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.2" pages="5">
   <diagram name="Subprocess" id="YbA9QDg3WB576rQ0Z9me">
-    <mxGraphModel dx="3240" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="728" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="Subprozess" link="data:page/id,beIjC0z8zGr40XdON4AF" id="CS-j0iZRzzQsMuDtSnzC-1">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;                  container=1;collapsible=1;recursiveResize=1;strokeColor=#000000;fillColor=#ffe6cc" vertex="1">
-            <mxGeometry height="30" width="100" x="400" y="120" as="geometry">
-              <mxRectangle height="80" width="240" x="400" y="120" as="alternateBounds" />
+            <mxGeometry height="30" width="100" x="400" y="130" as="geometry">
+              <mxRectangle height="80" width="240" x="400" y="130" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </UserObject>
@@ -44,9 +44,27 @@
         <mxCell id="U11U_6BWrruJ1t84nSEr-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="U11U_6BWrruJ1t84nSEr-7" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="360" x="410" y="170" as="geometry" />
+        <mxCell id="pejJdHsulJ8u2jqwgBbl-1" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopSub=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="BPMN Subprocess" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="120" as="geometry" />
         </mxCell>
+        <mxCell id="pejJdHsulJ8u2jqwgBbl-2" collapsed="1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;container=1;align=left;verticalAlign=top;spacingLeft=20;fontStyle=1;spacing=2;" value="Hinweis" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="240" as="geometry">
+            <mxRectangle height="250" width="560" x="120" y="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pejJdHsulJ8u2jqwgBbl-5" edge="1" parent="pejJdHsulJ8u2jqwgBbl-2" source="pejJdHsulJ8u2jqwgBbl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pejJdHsulJ8u2jqwgBbl-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pejJdHsulJ8u2jqwgBbl-3" parent="pejJdHsulJ8u2jqwgBbl-2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="105.26315789473685" width="105.26315789473685" x="35.224713294384536" y="67.99684210526318" as="geometry" />
+        </mxCell>
+        <mxCell id="pejJdHsulJ8u2jqwgBbl-4" parent="pejJdHsulJ8u2jqwgBbl-2" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="211.3935783902479" x="189.99642160975208" y="90.62842105263161" as="geometry" />
+        </mxCell>
+        <mxCell id="U11U_6BWrruJ1t84nSEr-7" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="360" x="400" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pejJdHsulJ8u2jqwgBbl-6" parent="0" value="Subprozess Ebene" />
       </root>
     </mxGraphModel>
   </diagram>

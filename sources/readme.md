@@ -3,6 +3,7 @@
 Hint: click on a dedicated link below to open a diagram directly in the **app.diagrams.net** online editor.
 
 ## Templates
+- [B.Braun_Brand_Guide_Template](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FB.Braun_Brand_Guide_Template.drawio#%7B%22pageId%22%3A%222f38kn3KsK2GuYS14_S0%22%7D)
 - [Data Lifecycle Process Map Template.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FData_Lifecycle_Process_Map_Template.drawio#%7B%22pageId%22%3A%22YfPhewbXs6lOoYcUwz4W%22%7D)
 
 ## Projects

@@ -4,7 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iUB_A27WzyDPVHcbbNS5-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;fillColor=#b0e3e6;strokeColor=#0e8088;" value="ISA 85 Level" vertex="1">
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-14" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="PU" vertex="1">
+          <mxGeometry height="60" width="380" x="190" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xmde8sy3-igEOJ8-j_3-1" parent="0" value="Level Pool" />
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-1" parent="0Xmde8sy3-igEOJ8-j_3-1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;fillColor=#b0e3e6;strokeColor=#0e8088;" value="ISA 85 Level" vertex="1">
           <mxGeometry height="300" width="420" x="150" y="360" as="geometry" />
         </mxCell>
         <mxCell id="iUB_A27WzyDPVHcbbNS5-2" parent="iUB_A27WzyDPVHcbbNS5-1" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#b1ddf0;strokeColor=#10739e;" value="IT-Systems" vertex="1">
@@ -25,7 +29,8 @@
         <mxCell id="iUB_A27WzyDPVHcbbNS5-11" parent="iUB_A27WzyDPVHcbbNS5-3" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="PUC" vertex="1">
           <mxGeometry height="60" width="380" x="20" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="iUB_A27WzyDPVHcbbNS5-5" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Responibility" vertex="1">
+        <mxCell id="0Xmde8sy3-igEOJ8-j_3-2" parent="0" value="Responsibility Pool" />
+        <mxCell id="iUB_A27WzyDPVHcbbNS5-5" parent="0Xmde8sy3-igEOJ8-j_3-2" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Responibility" vertex="1">
           <mxGeometry height="340" width="360" x="210" y="320" as="geometry" />
         </mxCell>
         <mxCell id="iUB_A27WzyDPVHcbbNS5-6" parent="iUB_A27WzyDPVHcbbNS5-5" style="swimlane;html=1;startSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" value="Q&amp;amp;V" vertex="1">
@@ -34,11 +39,6 @@
         <mxCell id="iUB_A27WzyDPVHcbbNS5-7" parent="iUB_A27WzyDPVHcbbNS5-5" style="swimlane;html=1;startSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" value="CSV" vertex="1">
           <mxGeometry height="320" width="240" x="120" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="iUB_A27WzyDPVHcbbNS5-14" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="PU" vertex="1">
-          <mxGeometry height="60" width="380" x="190" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="0Xmde8sy3-igEOJ8-j_3-1" parent="0" value="Level Pool" />
-        <mxCell id="0Xmde8sy3-igEOJ8-j_3-2" parent="0" value="Responsibility Pool" />
       </root>
     </mxGraphModel>
   </diagram>

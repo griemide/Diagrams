@@ -171,7 +171,7 @@
             <mxPoint x="-119.99666666666661" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Xmde8sy3-igEOJ8-j_3-44" parent="0" value="Ordertype" visible="0" />
+        <mxCell id="0Xmde8sy3-igEOJ8-j_3-44" parent="0" value="Ordertype" />
         <UserObject label="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Kommunikationsliste (Ordertype)&lt;/span&gt;&lt;/div&gt;" link="Attachment 3 to DR AVI VAL-P-MEG-5-005791 - Draft_PucPuIf_Antares" linkTarget="_blank" id="iUB_A27WzyDPVHcbbNS5-1">
           <mxCell parent="0Xmde8sy3-igEOJ8-j_3-44" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;fillColor=#b0e3e6;strokeColor=#0e8088;direction=east;" vertex="1">
             <mxGeometry height="640" width="380" x="40" y="200" as="geometry">

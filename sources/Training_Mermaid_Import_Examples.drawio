@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.2" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.2" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Mermaid_Gantt_Import">
     <mxGraphModel dx="1092" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Project_Template" id="hsuEkAblPkYMolzfvoaF">
-    <mxGraphModel dx="1620" dy="153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="764" dy="-381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="tniN5JHSY-J0hHCD8Ffg-0" />
         <mxCell id="tniN5JHSY-J0hHCD8Ffg-1" parent="tniN5JHSY-J0hHCD8Ffg-0" />
@@ -52,7 +52,7 @@
           <mxGeometry height="100" width="40" x="204" y="930.5" as="geometry" />
         </mxCell>
         <mxCell id="tniN5JHSY-J0hHCD8Ffg-5" parent="tniN5JHSY-J0hHCD8Ffg-1" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" value="v 1.0" vertex="1">
-          <mxGeometry height="80" width="90" x="50" y="870.5" as="geometry" />
+          <mxGeometry height="80" width="90" x="154" y="850.5" as="geometry" />
         </mxCell>
         <mxCell id="tniN5JHSY-J0hHCD8Ffg-6" parent="tniN5JHSY-J0hHCD8Ffg-1" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;container=1;" value="Lane 1.2" vertex="1">
           <mxGeometry height="100" width="40" x="204" y="1030.5" as="geometry" />

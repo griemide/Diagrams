@@ -85,5 +85,26 @@
     "h": 200,
     "aspect": "fixed",
     "title": "IT-/OT-Systeme"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;fillColor=#b1ddf0;strokeColor=#10739e;\" value=\"Pool\" vertex=\"1\"&gt;&lt;mxGeometry height=\"180\" width=\"360\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"2\" style=\"swimlane;html=1;startSize=40;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;\" value=\"1\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"340\" x=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" parent=\"2\" style=\"swimlane;html=1;startSize=40;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;\" value=\"2\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"340\" x=\"20\" y=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" parent=\"2\" style=\"swimlane;html=1;startSize=40;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;\" value=\"3\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"340\" x=\"20\" y=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 360,
+    "h": 180,
+    "aspect": "fixed",
+    "title": "PUC - PU"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" connectable=\"0\" parent=\"1\" style=\"group\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"155\" y=\"-1.1368683772161603e-13\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"2\" style=\"html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&amp;quot;curved&amp;quot;:0,&amp;quot;rounded&amp;quot;:0};\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"10\" x=\"145\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" edge=\"1\" parent=\"2\" style=\"html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;\" target=\"3\" value=\"ZSEND: LifebitPUC\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;mxPoint y=\"5\" as=\"sourcePoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" edge=\"1\" parent=\"2\" source=\"3\" style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;\" value=\"return\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"25\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "ZSEND"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" connectable=\"0\" parent=\"1\" style=\"group;flipV=0;legacyAnchorPoints=0;flipH=1;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"155\" y=\"-1.1368683772161603e-13\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"2\" style=\"html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&amp;quot;curved&amp;quot;:0,&amp;quot;rounded&amp;quot;:0};flipH=1;legacyAnchorPoints=0;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" edge=\"1\" parent=\"2\" style=\"html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;\" target=\"3\" value=\"ZRCV: LifebitPU\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;mxPoint x=\"155\" y=\"5\" as=\"sourcePoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" edge=\"1\" parent=\"2\" source=\"3\" style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;\" value=\"return\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" y=\"25\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "ZRCV"
   }
 ]</mxlibrary>

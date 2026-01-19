@@ -14,7 +14,7 @@ or go to repository [images](../images/readme.md) to choose a dedicated diagram.
 - [AD_228SP-0100SDS-EN_Flowchart.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FAD_228SP-0100SDS-EN_Flowchart.drawio#%7B%22pageId%22%3A%22PtxF3_3NihReNCPD8KB1%22%7D)
 
 ## Training / Examples
-- [Mermaid_Import_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FMermaid_Import_Examples.drawio#%7B%22pageId%22%3A%226a731a19-8d31-9384-78a2-239565b7b9f0%22%7D)
+- [Training_Mermaid_Import_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Mermaid_Import_Examples.drawio#%7B%22pageId%22%3A%226a731a19-8d31-9384-78a2-239565b7b9f0%22%7D)
 - [Training_Expand-Collapse_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Expand-Collapse_Examples.drawio#%7B%22pageId%22%3A%22YbA9QDg3WB576rQ0Z9me%22%7D)
 - [Training_Plugin-Animation_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Plugin-Animation_Examples.drawio#%7B%22pageId%22%3A%22jOom1orup965f_IblSqe%22%7D)
 - [Training_Venn_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Venn_Examples.drawio)

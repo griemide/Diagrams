@@ -2,21 +2,23 @@
   <diagram name="Seite-1" id="w2NI49u1soqeyaxMVt10">
     <mxGraphModel dx="764" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
+        <object label="" project="Training" id="0">
+          <mxCell />
+        </object>
         <mxCell id="1" parent="0" />
-        <UserObject label="Project: %project%" link="https://www.drawio.com/blog/placeholders" id="9rTlrmdbnA-ZN8YYv9Fc-1">
+        <UserObject label="Project: %project%" link="https://www.drawio.com/blog/placeholders" placeholders="1" tooltip="Placeholder example" id="9rTlrmdbnA-ZN8YYv9Fc-1">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;container=1;collapsible=1;noLabel=0;glass=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;gradientColor=default;" vertex="1">
             <mxGeometry height="240" width="450" x="30" y="160" as="geometry">
               <mxRectangle height="30" width="140" x="120" y="120" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <object label="Team: %team%&amp;nbsp;&lt;br&gt;&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;%filename%&lt;/span&gt;" team="CSV" placeholders="1" id="9rTlrmdbnA-ZN8YYv9Fc-2">
+        <object label="Team: %team% -&amp;nbsp; Author: %author%&lt;br&gt;&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;%filename%&lt;br&gt;%version%&lt;br&gt;%isodate%&lt;/span&gt;" team="CSV" placeholders="1" tooltip="see Blog: https://www.drawio.com/blog/placeholders" author="Michael Gries" id="9rTlrmdbnA-ZN8YYv9Fc-2">
           <mxCell parent="9rTlrmdbnA-ZN8YYv9Fc-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="72" width="360" x="30" y="144" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="9rTlrmdbnA-ZN8YYv9Fc-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;%filename%&lt;/span&gt;" vertex="1">
+        <mxCell id="9rTlrmdbnA-ZN8YYv9Fc-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;enumerate=0;comic=0;" value="&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;%filename%&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="220" y="460" as="geometry" />
         </mxCell>
         <mxCell id="9rTlrmdbnA-ZN8YYv9Fc-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="Actor" vertex="1">

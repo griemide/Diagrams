@@ -6,14 +6,14 @@
         <mxCell id="1" parent="0" />
         <UserObject label="Project: %project%" link="https://www.drawio.com/blog/placeholders" id="9rTlrmdbnA-ZN8YYv9Fc-1">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;container=1;collapsible=1;noLabel=0;glass=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;gradientColor=default;" vertex="1">
-            <mxGeometry height="200" width="400" x="100" y="230" as="geometry">
+            <mxGeometry height="240" width="450" x="30" y="160" as="geometry">
               <mxRectangle height="30" width="140" x="120" y="120" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <object label="Team: %team%&amp;nbsp;&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;%filename%&lt;/span&gt;" team="CSV" placeholders="1" id="9rTlrmdbnA-ZN8YYv9Fc-2">
+        <object label="Team: %team%&amp;nbsp;&lt;br&gt;&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;%filename%&lt;/span&gt;" team="CSV" placeholders="1" id="9rTlrmdbnA-ZN8YYv9Fc-2">
           <mxCell parent="9rTlrmdbnA-ZN8YYv9Fc-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
-            <mxGeometry height="60" width="293.3333333333333" x="53.33333333333333" y="120" as="geometry" />
+            <mxGeometry height="72" width="360" x="30" y="144" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="9rTlrmdbnA-ZN8YYv9Fc-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;%filename%&lt;/span&gt;" vertex="1">

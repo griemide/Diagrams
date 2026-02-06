@@ -5,6 +5,9 @@
 
 **Hint:** after choosen a dedicated diagram goto repository [sources](../sources/readme.md) to select a diagram for editing.
 
+## ISA-95 (System Architecture)
+![ISA-95](https://github.com/griemide/Diagrams/blob/main/images/ISA-95.drawio.png)
+
 ## Data Lifecycle Process Map (Template)
 ![Data_Lifecycle_Process_Map_Template-Data_System](https://github.com/griemide/Diagrams/blob/main/images/Data_Lifecycle_Process_Map_Template-Data_System.webp)
 

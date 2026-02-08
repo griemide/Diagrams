@@ -12,6 +12,10 @@ or go to repository [images](../images/readme.md) to choose a dedicated diagram.
 - [Data_Lifecycle_Process_Map_PUC_DE53.drawio](https://app.diagrams.net/#Hgriemide%2FmgDiagrams%2Fmain%2Fsources%2FData_Lifecycle_Process_Map_PUC_DE53.drawio#%7B%22pageId%22%3A%22wXnnw3s7SW47dbYbpI6H%22%7D)
 - [Data_Lifecycle_Process_Map_PRIME.drawio](https://app.diagrams.net/#Hgriemide%2FmgDiagrams%2Fmain%2Fsources%2FData_Lifecycle_Process_Map_PRIME.drawio#%7B%22pageId%22%3A%22ohRNJvKkvUwct1vVd4wq%22%7D)
 
+## Qualifizierungen  (private repository🔒)
+- [Qualifizierungsstrategie Change 2844.drawio](https://app.diagrams.net/#Hgriemide%2FmgDiagrams%2Fmain%2Fsources%2FPD-4377-01-CSV.drawio#%7B%22pageId%22%3A%22ohRNJvKkvUwct1vVd4wq%22%7D)
+
+
 ## Training / Examples
 - [Training_Mermaid_Import_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Mermaid_Import_Examples.drawio#%7B%22pageId%22%3A%226a731a19-8d31-9384-78a2-239565b7b9f0%22%7D)
 - [Training_Expand-Collapse_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Expand-Collapse_Examples.drawio#%7B%22pageId%22%3A%22YbA9QDg3WB576rQ0Z9me%22%7D)

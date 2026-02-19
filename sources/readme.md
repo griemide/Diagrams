@@ -7,12 +7,12 @@ or go to repository [images](../images/readme.md) to choose a dedicated diagram.
 - [B.Braun_Brand_Guide_Template](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FB.Braun_Brand_Guide_Template.drawio#%7B%22pageId%22%3A%222f38kn3KsK2GuYS14_S0%22%7D)
 - [Data Lifecycle Process Map Template.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FData_Lifecycle_Process_Map_Template.drawio#%7B%22pageId%22%3A%22YfPhewbXs6lOoYcUwz4W%22%7D)
 
-## Projects (private repository🔒)
+## Projects ([private repository🔒](https://github.com/griemide/mgDiagrams/tree/main/sources))
 - [Data_Lifecycle_Process_Map_DIHP.drawio](https://app.diagrams.net/#Hgriemide%2FmgDiagrams%2Fmain%2Fsources%2FData_Lifecycle_Process_Map_DIHP.drawio#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
 - [Data_Lifecycle_Process_Map_PUC_DE53.drawio](https://app.diagrams.net/#Hgriemide%2FmgDiagrams%2Fmain%2Fsources%2FData_Lifecycle_Process_Map_PUC_DE53.drawio#%7B%22pageId%22%3A%22wXnnw3s7SW47dbYbpI6H%22%7D)
 - [Data_Lifecycle_Process_Map_PRIME.drawio](https://app.diagrams.net/#Hgriemide%2FmgDiagrams%2Fmain%2Fsources%2FData_Lifecycle_Process_Map_PRIME.drawio#%7B%22pageId%22%3A%22ohRNJvKkvUwct1vVd4wq%22%7D)
 
-## Qualifizierungen  (private repository🔒)
+## Qualifizierungen  ([private repository🔒](https://github.com/griemide/mgDiagrams/tree/main/sources))
 - [Qualifizierungsstrategie Change 2844.drawio](https://app.diagrams.net/#Hgriemide%2FmgDiagrams%2Fmain%2Fsources%2FPD-4377-01-CSV.drawio#%7B%22pageId%22%3A%22ohRNJvKkvUwct1vVd4wq%22%7D)
 
 

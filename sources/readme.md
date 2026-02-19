@@ -14,6 +14,7 @@ or go to repository [images](../images/readme.md) to choose a dedicated diagram.
 
 ## Qualifizierungen  ([private repository🔒](https://github.com/griemide/mgDiagrams/tree/main/sources))
 - [Qualifizierungsstrategie Change 2844.drawio](https://app.diagrams.net/#Hgriemide%2FmgDiagrams%2Fmain%2Fsources%2FPD-4377-01-CSV.drawio#%7B%22pageId%22%3A%22ohRNJvKkvUwct1vVd4wq%22%7D)
+- [Qualifizierungsstrategie Change 2858.drawio](https://app.diagrams.net/#Hgriemide%2FmgDiagrams%2Fmain%2Fsources%2FPD-4388-01-CSV.drawio)
 
 
 ## Training / Examples

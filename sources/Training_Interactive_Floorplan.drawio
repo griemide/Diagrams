@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0">
   <diagram name="Example" id="Vx-QqaVuEA76mNRvgskF">
-    <mxGraphModel dx="5420" dy="3005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="4336" dy="2404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1697,6 +1697,17 @@
         <UserObject label="Fire Safety" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;VCmpc00xmNA2no-S3xcJ-213&quot;]}}]}" id="nOQo47pkOIhvr11X2m-W-511">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" vertex="1">
             <mxGeometry height="60" width="210" x="780" y="1840" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nOQo47pkOIhvr11X2m-W-512" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="1250" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="nOQo47pkOIhvr11X2m-W-513" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;VCmpc00xmNA2no-S3xcJ-216&quot;]}}]}&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="1905" x="765" y="2160" as="geometry" />
+        </mxCell>
+        <UserObject label="Action JSON example: Walls and doors" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;VCmpc00xmNA2no-S3xcJ-216&quot;]}}]}" id="nOQo47pkOIhvr11X2m-W-514">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" vertex="1">
+            <mxGeometry height="60" width="484" x="246" y="2170" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

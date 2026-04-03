@@ -1710,7 +1710,7 @@
         <mxCell id="nOQo47pkOIhvr11X2m-W-520" edge="1" parent="1" source="nOQo47pkOIhvr11X2m-W-514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nOQo47pkOIhvr11X2m-W-513" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Action JSON example: Walls and doors" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;nOQo47pkOIhvr11X2m-W-522&quot;]}}]}" id="nOQo47pkOIhvr11X2m-W-514">
+        <UserObject label="Action JSON example: Custom Links" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;nOQo47pkOIhvr11X2m-W-522&quot;]}}]}" id="nOQo47pkOIhvr11X2m-W-514">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" vertex="1">
             <mxGeometry height="60" width="470" x="520" y="2170" as="geometry" />
           </mxCell>

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0">
   <diagram name="Example" id="Vx-QqaVuEA76mNRvgskF">
-    <mxGraphModel dx="2675" dy="1468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="2675" dy="1468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1440,7 +1440,7 @@
             <mxPoint x="1470" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOQo47pkOIhvr11X2m-W-442" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.multiplier;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+        <mxCell id="nOQo47pkOIhvr11X2m-W-442" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.multiplier;fillColor=#f8cecc;strokeColor=#b85450;noLabel=0;" value="" vertex="1">
           <mxGeometry height="70" width="70" x="1560" y="1650" as="geometry" />
         </mxCell>
         <mxCell id="nOQo47pkOIhvr11X2m-W-443" edge="1" parent="1" source="nOQo47pkOIhvr11X2m-W-444" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.032;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=#b85450;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#f8cecc;" target="nOQo47pkOIhvr11X2m-W-107">
@@ -1718,8 +1718,9 @@
         <mxCell id="nOQo47pkOIhvr11X2m-W-519" edge="1" parent="1" source="nOQo47pkOIhvr11X2m-W-515" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nOQo47pkOIhvr11X2m-W-514" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="" link="https://jgraph.github.io/drawio-tools/" linkTarget="_blank" id="nOQo47pkOIhvr11X2m-W-515">
-          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=1;absoluteArcSize=1;arcSize=20;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1">
+        <mxCell id="nOQo47pkOIhvr11X2m-W-522" parent="0" value="Legende" />
+        <UserObject label="Legend" link="https://jgraph.github.io/drawio-tools/" linkTarget="_blank" id="nOQo47pkOIhvr11X2m-W-515">
+          <mxCell parent="nOQo47pkOIhvr11X2m-W-522" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=1;absoluteArcSize=1;arcSize=20;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1">
             <mxGeometry height="120" width="210" x="266.5" y="2140" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1743,7 +1744,6 @@
             <mxGeometry height="20" width="210" y="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nOQo47pkOIhvr11X2m-W-522" parent="0" value="Unbenannte Ebene" />
       </root>
     </mxGraphModel>
   </diagram>

@@ -94,5 +94,12 @@
     "w": 30,
     "h": 30,
     "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" connectable=\"0\" parent=\"1\" style=\"group\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"480\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;UserObject label=\"✏️\" link=\"https://app.diagrams.net/#Hgriemide%2FmgDiagrams%2Fmain%2Fsources%2FPD-4433-01-CSV.drawio#%7B%22pageId%22%3A%22OzYxDURM6aDnq59xr4CS%22%7D\" linkTarget=\"_blank\" id=\"3\"&gt;&lt;mxCell parent=\"2\" style=\"text;whiteSpace=wrap;html=1;fontSize=16;aspect=fixed;verticalAlign=middle;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"30\" x=\"440\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"4\" parent=\"2\" style=\"shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=east;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;collapsible=1;\" value=\"For training purposes only&amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp; -&amp;amp;nbsp; &amp;amp;nbsp; (c) 2026, Michael Gries (Q&amp;amp;amp;V Automation)\" vertex=\"1\"&gt;&lt;mxGeometry height=\"20\" width=\"480\" y=\"5\" as=\"geometry\"&gt;&lt;mxRectangle height=\"20\" width=\"440\" y=\"5\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 480,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Autor &amp; Edit"
   }
 ]</mxlibrary>

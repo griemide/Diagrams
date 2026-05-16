@@ -17,5 +17,6 @@ or go to repository [images](../images/readme.md) to choose a dedicated diagram.
 - [Training_Venn_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Venn_Examples.drawio)
 - [Training_Quadrant_Examples.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Quadrant_Examples.drawio#%7B%22pageId%22%3A%22quadrant-diagram%22%7D)
 - [Training_Placeholders_Example.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Placeholders_Example.drawio#%7B%22pageId%22%3A%22w2NI49u1soqeyaxMVt10%22%7D)
+- [Training_Using_Actions.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Using_Actions.drawio#%7B%22pageId%22%3A%22MSichkaGGv1pkM-8GRMn%22%7D)
 - [Training_Presentation_2026.drawio](https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Presentation_2026.drawio#%7B%22pageId%22%3A%22izTNuDzV_WpvGpYoINfG%22%7D)
 

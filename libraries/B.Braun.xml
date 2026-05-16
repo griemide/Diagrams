@@ -114,5 +114,15 @@
     "w": 120,
     "h": 100,
     "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;div style=&amp;quot;line-height: 100%;&amp;quot;&amp;gt;&amp;lt;font style=&amp;quot;font-size: 12px;&amp;quot;&amp;gt;Action (show / hide)&amp;lt;/font&amp;gt;&amp;lt;/div&amp;gt;\" link=\"data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;show&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;LjMlJVxlk6_0Gz8Pd0dV-4&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;LjMlJVxlk6_0Gz8Pd0dV-6&amp;quot;]}}]}\" linkTarget=\"_blank\" id=\"2\"&gt;&lt;mxCell parent=\"1\" style=\"html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#99CCFF;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;fillStyle=auto;gradientColor=#0085FC;gradientDirection=radial;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"20\" width=\"140\" x=\"-2.2737367544323206e-13\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 140,
+    "h": 20
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;div style=&amp;quot;line-height: 100%;&amp;quot;&amp;gt;&amp;lt;font style=&amp;quot;font-size: 12px;&amp;quot;&amp;gt;Action (toggle)&amp;lt;/font&amp;gt;&amp;lt;/div&amp;gt;\" link=\"data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;LjMlJVxlk6_0Gz8Pd0dV-6&amp;quot;]}}]}\" linkTarget=\"_blank\" id=\"2\"&gt;&lt;mxCell parent=\"1\" style=\"html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#99CCFF;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;fillStyle=auto;gradientColor=#0085FC;gradientDirection=radial;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"20\" width=\"120\" x=\"-2.2737367544323206e-13\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 20
   }
 ]</mxlibrary>

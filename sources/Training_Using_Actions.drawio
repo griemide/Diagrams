@@ -33,9 +33,11 @@
             <mxGeometry height="30" width="30" x="40" y="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="L0MPEl_cEN57srWPsSbY-15" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="30" width="480" x="640" y="690" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="https://github.com/griemide/Diagrams/blob/main/sources/readme.md" linkTarget="_blank" id="L0MPEl_cEN57srWPsSbY-15">
+          <mxCell connectable="0" parent="1" style="group" vertex="1">
+            <mxGeometry height="30" width="480" x="640" y="690" as="geometry" />
+          </mxCell>
+        </UserObject>
         <UserObject label="✏️" link="https://app.diagrams.net/#Hgriemide%2FDiagrams%2Fmain%2Fsources%2FTraining_Using_Actions.drawio#%7B%22pageId%22%3A%22MSichkaGGv1pkM-8GRMn%22%7D" linkTarget="_blank" id="L0MPEl_cEN57srWPsSbY-16">
           <mxCell parent="L0MPEl_cEN57srWPsSbY-15" style="text;whiteSpace=wrap;html=1;fontSize=16;aspect=fixed;verticalAlign=middle;" vertex="1">
             <mxGeometry height="30" width="30" x="440" as="geometry" />
@@ -93,6 +95,11 @@
         <UserObject label="Draw.io Tools" link="https://jgraph.github.io/drawio-tools/" linkTarget="_blank" id="L0MPEl_cEN57srWPsSbY-14">
           <mxCell parent="L0MPEl_cEN57srWPsSbY-10" style="whiteSpace=wrap;connectable=0;html=1;shape=mxgraph.basic.rect;size=10;rectStyle=rounded;topRightStyle=square;topLeftStyle=square;part=1;" vertex="1">
             <mxGeometry height="18" width="210" y="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="draw.io example" link="https://app.diagrams.net/?lightbox=1&amp;highlight=0000ff&amp;edit=_blank&amp;layers=1&amp;nav=1#R7VdLb9swDP4tO%2FhaOHadpMfl0W1AhwHrhmFH2WZsNYqVyXKT7NeP1CO267R7dC16aBLE1EfqRX6k5CCeb%2FbvFNuWH2UOIojCfB%2FEiyCKJtML%2FCfgYIFROIktUiieWyxsgWv%2BE7yhQxueQ%2B0wC2kphebbPpjJqoJM9zCmlNz1zVZS5D1gywoYANcZE0P0G891adFpErb4e%2BBF6WcehU6TsmxdKNlUbr4gilfmY9Ub5sdy9nXJcrnrTBovg3iupNRW2uznIMi3fbdd3qM9rltBpf%2Bkw7ntcMtEA37FZl364H0BObrGNaXSpSxkxcSyRWdmv0Ajhtgq9UagOELxBrQ%2BuOiyRkuE2hGupNw6uxUXYi6FVGbGeJXQF%2FFaK7mGjmZsPqjJ5IZnrvfRh%2BGxiw8a%2BnNWKJZzdEdnmNR8UTd0l%2FNgLRuVOQc4l2imCnBWjs3kmruxw5wAuQGtDmigQDDNb%2FusYo6cxdGuDRAKLkan4xUN4vVdNpQIrML%2FCt1AnKLHZYkpRBocoA6iscClz1KFUkHSjqODolDwao3aUFaWjFugFkP64oZhr8%2FOzgaEaMNN3t%2BVXMP1lhlv7bAc9ClQo4ZXxRWsyHWjsIU%2Bu%2Fwx2MtjwC0odMCD0XXa2Ce%2Fq3YXrvrt2soR%2BcpRdqrGOHw8H8av%2Bfvb%2FI2H%2BZs8U%2F5%2BrUF9Sm%2FoiMJcYykI23UueLY2dFBgzjZaMpDIyZJTNrJMc1m9sXNSntquOdMsiN9aLU53U9NjHkzQGeMfDR0cM6usWwA7BMmsZ6NlUWD0eyZ4WHRNfOnoWyQdi6SjxTXQYePbk44qWQQT87OC2ZFncNzxvCP3v9aaOzTMGUxX2UkaZlNIV4%2Bm4QTYGEz1kpV2aTIa%2B7bbRPQEFSYaPV2JwWaHtaerTjKoOl9KMPcshTccMiTasA3Fp0prerwA2vJ8ZEnK88gKdLqd4uZ%2FIuALqIMDjiHEa5767YV%2Fxbs4fsajbTIg2YdFfbzqpJZvjbmpmHqpDQWXuamgC6IbvoBwJmRB9xs1vAJ1ermXC0thU6oPoOr%2ByFce84O%2BMuV%2Bppz7U%2FdpKlT7gmR0nbfQePkL#%7B%22pageId%22%3A%22LsPNOf0zpMnfhJXWcRoJ%22%7D" linkTarget="_blank" id="n_wf26aD7uBcpUxDrAzj-4">
+          <mxCell parent="L0MPEl_cEN57srWPsSbY-23" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1">
+            <mxGeometry height="20" width="190" x="690" y="98" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="cell to toggle" linkTarget="_blank" id="L0MPEl_cEN57srWPsSbY-24">

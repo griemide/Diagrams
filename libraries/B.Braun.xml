@@ -132,5 +132,12 @@
     "w": 160,
     "h": 99,
     "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;\" value=\"DESIGN&amp;lt;br&amp;gt;SPECIFICATION\" vertex=\"1\"&gt;&lt;mxGeometry height=\"80\" width=\"160\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 160,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "GAMP V-Model"
   }
 ]</mxlibrary>
